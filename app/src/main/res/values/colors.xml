@@ -1,0 +1,18 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Primary -->
+    <color name="primaryColor">#2A5560</color>
+    <color name="primaryDarkColor">#1C3A45</color>
+    <color name="onPrimaryColor">#FFFFFF</color>
+
+    <!-- Secondary -->
+    <color name="secondaryColor">#F4A261</color>
+    <color name="secondaryDarkColor">#E76F51</color>
+    <color name="onSecondaryColor">#000000</color>
+
+    <!-- Optional Neutral Support -->
+    <color name="surfaceLight">#F9F9F9</color>
+    <color name="divider">#DDDDDD</color>
+</resources>

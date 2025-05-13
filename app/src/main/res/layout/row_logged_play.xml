@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Portions of this layout were developed with the assistance of OpenAI's ChatGPT -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@drawable/bg_card"
+    android:layout_marginBottom="12dp"
+    android:elevation="2dp">
+
+    <!-- Play date title -->
+    <TextView
+        android:id="@+id/playDateText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2025-04-15"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Container for player rows (filled dynamically) -->
+    <LinearLayout
+        android:id="@+id/playersListContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+</LinearLayout>

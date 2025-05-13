@@ -1,0 +1,16 @@
+<!-- Portions of this layout were developed with the assistance of OpenAI's ChatGPT -->
+<com.google.android.material.chip.Chip
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/Widget.MaterialComponents.Chip.Choice"
+    android:text="2–5 Players"
+    app:chipIcon="@drawable/ic_group"
+    app:chipIconVisible="true"
+    app:chipBackgroundColor="?attr/colorSecondaryContainer"
+    app:iconStartPadding="4dp"
+    android:textAppearance="@style/TextAppearance.MaterialComponents.Body2"
+    android:textColor="?attr/colorOnSecondaryContainer"
+    android:layout_marginEnd="8dp"
+    />

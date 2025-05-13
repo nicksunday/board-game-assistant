@@ -1,0 +1,97 @@
+# =============== #
+# Android Basics  #
+# =============== #
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# ====================== #
+# Kotlin/Java Build Artifacts
+# ====================== #
+/out
+/**/*.class
+/**/*.jar
+/**/*.war
+/**/*.ear
+
+# ================= #
+# Gradle + Kotlin   #
+# ================= #
+/.gradle/
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# ============== #
+# Unit Test Artifacts
+# ============== #
+/test-results/
+/test-debug/
+/test-release/
+/androidTest-debug/
+/androidTest-release/
+
+# ========== #
+# Firebase   #
+# ========== #
+/firebase/
+google-services.json
+firebase-debug.log
+
+# =================== #
+# Misc Generated Junk #
+# =================== #
+*.log
+*.hprof
+*.orig
+*.rej
+*.swp
+*.swo
+
+# ============ #
+# OS-specific  #
+# ============ #
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ================= #
+# Jetpack Compose #
+# ================= #
+.idea/sonarlint
+.idea/vcs.xml
+.idea/kotlinc.xml
+.idea/codeStyles
+
+# =============== #
+# Misc Android Studio #
+# =============== #
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+

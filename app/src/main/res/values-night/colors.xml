@@ -1,0 +1,18 @@
+<resources>
+    <color name="white">#E0E0E0</color>   <!-- softer white -->
+    <color name="black">#FFFFFF</color>   <!-- for on-dark backgrounds -->
+
+    <!-- Primary -->
+    <color name="primaryColor">#18343B</color>          <!-- darker teal -->
+    <color name="primaryDarkColor">#0E2227</color>      <!-- very dark teal -->
+    <color name="onPrimaryColor">#FFFFFF</color>
+
+    <!-- Secondary -->
+    <color name="secondaryColor">#D98E5F</color>        <!-- dusk-toned orange -->
+    <color name="secondaryDarkColor">#B85C3C</color>    <!-- earthier for contrast -->
+    <color name="onSecondaryColor">#000000</color>
+
+    <!-- Optional Neutrals -->
+    <color name="surfaceLight">#121212</color>          <!-- dark background -->
+    <color name="divider">#333333</color>
+</resources>

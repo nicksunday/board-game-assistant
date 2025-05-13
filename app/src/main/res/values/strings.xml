@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Board Game Assistant</string>
+    <string name="log_play">Log Play</string>
+    <string name="maximum_players">Maximum Players:</string>
+    <string name="play_time">Play Time:</string>
+    <string name="total_plays">Total Plays:</string>
+    <string name="last_winner">Last Winner:</string>
+    <string name="import_lib_edit_text_hint">Board Game Geek Username</string>
+    <string name="search">Search</string>
+    <string name="import_library_button">Import</string>
+    <string name="save_play">Save</string>
+    <string name="log_play_add_player">Add Player</string>
+    <string name="log_play_player_heading">Player</string>
+    <string name="log_play_score_heading">Score</string>
+    <string name="log_play_delete_row">Delete</string>
+    <string name="total_games_played">Total Games Played:</string>
+    <string name="random_game_note">All fields are optional, leave blank to exclude from search</string>
+    <string name="game_type">Game Type</string>
+    <string name="number_of_players">Number of Players:</string>
+    <string name="number_of_players_hint">e.g. 5</string>
+    <string name="time_to_play">Time to Play (Minutes):</string>
+    <string name="time_to_play_hint">e.g. 90</string>
+
+    <string name="library_title">Library</string>
+    <string name="log_play_title">Log Play</string>
+    <string name="players_title">Players</string>
+    <string name="import_library_title">Import Board Game Geek Library</string>
+    <string name="random_game_title">Random Game</string>
+    <string name="logout_title">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="add_game_title">Add Game</string>
+    <string name="import_search_placeholder">PLACEHOLDER has NNN Games</string>
+
+    <string name="import_library_result">%1$s has %2$d games</string>
+    <string name="remove_game_btn_desc">Remove Game</string>
+    <string name="random_type_label">Filter by game type</string>
+    <string name="random_type_prompt">Filter by game type</string>
+
+    
+</resources>

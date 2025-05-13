@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/libraryFragment"
+        android:title="@string/library_title" />
+    <!-- android:icon="@drawable/ICON_NAME" -->
+    <item
+        android:id="@+id/addGameFragment"
+        android:title="@string/add_game_title" />
+    <item
+        android:id="@+id/playersFragment"
+        android:title="@string/players_title" />
+    <item
+        android:id="@+id/importLibraryFragment"
+        android:title="@string/import_library_title" />
+    <item
+        android:id="@+id/randomGameSearchFragment"
+        android:title="@string/random_game_title" />
+    <item
+        android:id="@+id/profileFragment"
+        android:title="@string/profile" />
+    <item
+        android:id="@+id/nav_logout"
+        android:background="?attr/selectableItemBackground"
+        android:title="@string/logout_title"
+        android:checkable="true" />
+</menu>
