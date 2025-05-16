@@ -12,17 +12,19 @@
 - ☁️ Backed by Firebase Authentication and Cloud Firestore  
 - 💎 Modern UI built with Material Design  
 
-## Tech Stack
-
-- Kotlin + Jetpack (ViewModel, LiveData, Navigation)
-- Firebase Auth + Firestore
-- Retrofit + Jsoup for XML parsing from BGG API
-- Coroutines + MVVM architecture
-- Mockito + JUnit + Espresso for testing
-
 ## Screenshots
 
-Coming soon...
+### 🔍 Add Game Search  
+<img src="images/Add%20Game%20Search.png" width="600"/>
+
+### 📚 Library View  
+<img src="images/Library.png" width="600"/>
+
+### 📖 Library - Expanded Game  
+<img src="images/Library%20Expanded.png" width="600"/>
+
+### 📂 Drawer Menu  
+<img src="images/Drawer%20Menu.png" width="600"/>
 
 ## Setup
 
@@ -33,6 +35,14 @@ Coming soon...
 2. Add your Firebase `google-services.json` file to the `app/` directory.
 
 3. Build & run via Android Studio (API 33+ recommended).
+
+## Tech Stack
+
+- Kotlin + Jetpack (ViewModel, LiveData, Navigation)
+- Firebase Auth + Firestore
+- Retrofit + Jsoup for XML parsing from BGG API
+- Coroutines + MVVM architecture
+- Mockito + JUnit + Espresso for testing
 
 ## License
 
